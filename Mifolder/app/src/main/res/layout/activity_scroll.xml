@@ -144,7 +144,7 @@
             android:id="@+id/btn23"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:text="Wen VIEW" />
+            android:text="Web VIEW" />
         <Button
             android:id="@+id/btn24"
             android:layout_width="fill_parent"

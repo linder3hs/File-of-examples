@@ -12,6 +12,6 @@ public class Main24Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web_view);
         webView = (WebView)findViewById(R.id.webview);
-        webView.loadUrl("https://guvery.com");
+        webView.loadUrl("http://linderpage.pe.hu/");
     }
 }
